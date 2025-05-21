@@ -4,6 +4,7 @@
 To design and deploy a prototype application for image captioning by utilizing the BLIP image-captioning model and integrating it with the Gradio UI framework for user interaction and evaluation.
 
 ### PROBLEM STATEMENT:
+Identifying relevant descriptions for images is essential for improving accessibility, image understanding, and content organization. This project aims to create a simple application that generates meaningful captions for images using a pre-trained image captioning model, with an easy-to-use interface for users.
 
 ### DESIGN STEPS:
 ### STEP 1:
